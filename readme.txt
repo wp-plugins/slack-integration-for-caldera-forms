@@ -1,7 +1,7 @@
 === Slack Integration for Caldera Forms ===
 Contributors: Desertsnowman
 Donate link: https://CalderaWP.com
-Tags: slack, caldera forms, calderawp, form notification
+Tags: slack, caldera forms, calderawp, form notification, cfslackforcalderaforms
 Requires at least: 3.9
 Tested up to: 4.2
 Stable tag: 1.0.0
