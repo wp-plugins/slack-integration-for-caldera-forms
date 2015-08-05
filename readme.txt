@@ -1,14 +1,14 @@
 === Slack Integration for Caldera Forms ===
-Contributors: Desertsnowman
+Contributors: Desertsnowman, Shelob9
 Donate link: https://CalderaWP.com
 Tags: slack, caldera forms, calderawp, form notification, cfslackforcalderaforms
 Requires at least: 3.9
 Tested up to: 4.2
-Stable tag: 1.0.0
+Stable tag: 1.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Integrate a Caldera Form with Slack and get submissions notification to a Slack Channel.
+Get Slack submissions notifications or create Slack invites with Caldera Forms.
 
 == Description ==
 
@@ -16,7 +16,11 @@ Set up a support, contact or a simple "Hi" form in the free <a href="https://wor
 
 [youtube https://www.youtube.com/watch?v=Y8TjvQvctGw]
 
+As of version 1.1.0 You can also create Slack Team invites.
+
 Slack Integration for Caldera Forms is a free plugin by [CalderaWP](https://CalderaWP.com).
+
+This plugin is on GitHub: https://github.com/CalderaWP/cf-slack
 
 == Installation ==
 
@@ -38,6 +42,8 @@ Of course it does.
 1. Simple setup in the form under "Processors" Tab.
 
 == Changelog ==
+= 1.1.0 =
+Slack Team Updates
 
 = 1.0.0 =
 Initial Version
